@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://future-hope.org"
 buildDrafts = false
 buildExpired = false
 buildFuture = false
