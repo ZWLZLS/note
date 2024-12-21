@@ -5,7 +5,7 @@ buildFuture = false
 enableRobotsTXT = true
 theme = "PaperMod"
 title = "我的博客"
-
+ 
 [[menu.main]]
 identifier = "categories"
 name = "分类"
