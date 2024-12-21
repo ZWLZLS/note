@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>我的博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Dec 2024 23:52:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Png1</title>
+      <link>http://localhost:1313/posts/png1/</link>
+      <pubDate>Sat, 21 Dec 2024 23:52:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/png1/</guid>
+      <description>测试图片 图片为</description>
+    </item>
+    
+    <item>
+      <title>你好，世界！</title>
+      <link>http://localhost:1313/posts/test1/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/test1/</guid>
+      <description>这是我的第一篇博客文章！
+标题 这里是正文内容&amp;hellip;
+子标题 列表项 1 列表项 2 </description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>http://localhost:1313/posts/world/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/world/</guid>
+      <description>demo09 测试1</description>
+    </item>
+    
+    <item>
+      <title>Text0</title>
+      <link>http://localhost:1313/posts/demo01/text0/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/demo01/text0/</guid>
+      <description>demo01测试0 测试0</description>
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>http://localhost:1313/posts/demo02/t/</link>
+      <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/demo02/t/</guid>
+      <description>demo51测试4 测试4</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Tue, 21 Dec 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>demo3 测试hello</description>
+    </item>
+    
+    
+  </channel>
+</rss>

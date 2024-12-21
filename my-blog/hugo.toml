@@ -1,0 +1,73 @@
+baseURL = "https://note-9dw.pages.dev/"
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+enableRobotsTXT = false
+theme = "PaperMod"
+title = "我的博客"
+
+[[menu.main]]
+identifier = "categories"
+name = "分类"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "标签"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "归档"
+url = "/archives/"
+weight = 30
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[pagination]
+pagerSize = 5
+
+[params]
+DateFormat = "2006-01-02"
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowPostNavLinks = true
+ShowReadingTime = false
+ShowRssButtonInSectionTermList = false
+ShowShareButtons = false
+ShowWordCount = false
+UseHugoToc = false
+#author = "prisoner"
+comments = false
+defaultTheme = "auto"
+description = "分享生活，记录成长"
+disableScrollToTop = false
+disableSpecial1stPost = false
+env = "production"
+hideSummary = false
+hidemeta = true
+keywords = ["Blog", "Portfolio", "PaperMod"]
+showtoc = false
+title = "我的小天地"
+tocopen = false
+
+[params.profileMode]
+enabled = true
+imageHeight = 120
+imageTitle = "profile image"
+imageUrl = "/2.png"
+imageWidth = 120
+subtitle = "好记性不如烂笔头"
+title = "Prisoner"
+
+[[params.profileMode.buttons]]
+name = "文章"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "标签"
+url = "tags"
